@@ -1,6 +1,4 @@
 - Hi, I’m @Hepaul7 Paul He
-- I’m a Computer Science student at the University of Toronto
-- Currently as an Exhange Student at Swiss Federal Institute of Technology (ETH Zürich)
 - You can reach me at Paul.He@mail.utoronto.ca
 
 <!---
